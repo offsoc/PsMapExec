@@ -52,7 +52,7 @@ As of version **0.6.0**, PsMapExec is **self-contained** aside from the optional
 * https://github.com/tmenochet
 * https://github.com/elnerd/Get-NetNTLM
 * https://github.com/danielbohannon/Invoke-Obfuscation
-
+* https://github.com/xpn/RandomTSScripts/tree/master/lapsv2decrypt/dotnet
 
 ## ⚠️ Disclaimer
 
